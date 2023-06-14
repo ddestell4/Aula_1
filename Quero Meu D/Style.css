@@ -1,0 +1,26 @@
+
+{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+#nav-content
+{
+    background-color: #ff0000;
+
+}
+#ul-content
+{
+    display: flex;
+    list-style: none;
+    margin: auto;
+    width: 30%;
+}
+#li-content
+{
+    padding: 30px;
+}
+#li-content
+{
+    color: #ffffff;
+    text-decoration: none;
+}
